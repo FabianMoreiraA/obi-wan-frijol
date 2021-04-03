@@ -5,7 +5,7 @@ const Card = () => {
 		<div className="row">
 			<div className="col-4">
 				<div className="card">
-					<img src=" https://via.placeholder.com/400/200?text=Frijol" className="card-img-top" alt="..." />
+					<img src=" https://via.placeholder.com/400/200?text=donwill" className="card-img-top" alt="..." />
 					<div className="card-body">
 						<h5 className="card-title">Card title</h5>
 						<p className="card-text">
